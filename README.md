@@ -3,8 +3,8 @@
 Tugas Pertemuan 5 – Responsive & Accessible Web Client.
 Satu halaman web client (HTML + CSS, tanpa JavaScript) untuk mengajukan dokumen akademik.
 
-- **URL aplikasi:** _isi dengan link GitHub Pages Anda_
-- **Repositori:** _isi dengan link GitHub Anda_
+- **URL aplikasi:(https://dinasambas.github.io/portal-layanan-akademik/)
+- **Repositori:(https://github.com/Dinasambas/portal-layanan-akademik)
 
 ## Struktur proyek
 
