@@ -59,7 +59,7 @@ Screenshot ada di folder `evidence/`.
 6. **Validasi form:** kirim form kosong, lalu isi email tanpa `@`. Catat pesan validasi browser.
 
 ### Temuan debugging
-_Tulis temuan Anda di sini (contoh: overflow yang sempat muncul, perbaikan kontras, dst.). Jika tidak ada masalah, tulis itu dan sebutkan apa yang sudah diperiksa._
+Saya memeriksa halaman lewat DevTools Edge, mulai dari tab Elements, Network, Accessibility, sampai uji keyboard.Setelah href-nya saya arahkan ke file logo yang ada, semua request berstatus 200. Di Elements, div.cards memakai CSS Grid dan jumlah kolomnya berubah mengikuti lebar layar (1 kolom di layar kecil, 2 kolom di lebar menengah, 4 kolom di lebar besar), tanpa horizontal scroll. Di panel Accessibility, nav terbaca sebagai navigation dengan nama “Navigasi utama”, dan fokus keyboard tampak jelas di tombol dan kolom input.
 
 ## Menjalankan dan deploy
 
